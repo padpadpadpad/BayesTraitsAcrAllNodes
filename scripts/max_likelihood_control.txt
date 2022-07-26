@@ -1,0 +1,34 @@
+1
+1
+AddTag T17 Macaca_arctoides Macaca_assamensis Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_maura Macaca_mulatta Macaca_nemestrina Macaca_nigra Macaca_radiata Macaca_silenus Macaca_sinica Macaca_sylvanus Macaca_thibetana Macaca_tonkeana Papio_anubis
+AddNode 17 T17
+AddTag T18 Macaca_arctoides Macaca_assamensis Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_maura Macaca_mulatta Macaca_nemestrina Macaca_nigra Macaca_radiata Macaca_silenus Macaca_sinica Macaca_sylvanus Macaca_thibetana Macaca_tonkeana
+AddNode 18 T18
+AddTag T19 Macaca_arctoides Macaca_assamensis Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_maura Macaca_mulatta Macaca_nemestrina Macaca_nigra Macaca_radiata Macaca_silenus Macaca_sinica Macaca_thibetana Macaca_tonkeana
+AddNode 19 T19
+AddTag T20 Macaca_arctoides Macaca_assamensis Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_mulatta Macaca_radiata Macaca_sinica Macaca_thibetana
+AddNode 20 T20
+AddTag T21 Macaca_arctoides Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_mulatta
+AddNode 21 T21
+AddTag T22 Macaca_cyclopis Macaca_fascicularis Macaca_fuscata Macaca_mulatta
+AddNode 22 T22
+AddTag T23 Macaca_cyclopis Macaca_fuscata Macaca_mulatta
+AddNode 23 T23
+AddTag T24 Macaca_fuscata Macaca_mulatta
+AddNode 24 T24
+AddTag T25 Macaca_assamensis Macaca_radiata Macaca_sinica Macaca_thibetana
+AddNode 25 T25
+AddTag T26 Macaca_assamensis Macaca_thibetana
+AddNode 26 T26
+AddTag T27 Macaca_radiata Macaca_sinica
+AddNode 27 T27
+AddTag T28 Macaca_maura Macaca_nemestrina Macaca_nigra Macaca_silenus Macaca_tonkeana
+AddNode 28 T28
+AddTag T29 Macaca_maura Macaca_nigra Macaca_tonkeana
+AddNode 29 T29
+AddTag T30 Macaca_nigra Macaca_tonkeana
+AddNode 30 T30
+AddTag T31 Macaca_nemestrina Macaca_silenus
+AddNode 31 T31
+LogFile ../data/ML
+Run

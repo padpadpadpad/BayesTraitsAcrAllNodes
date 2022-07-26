@@ -1,0 +1,3 @@
+# BayesTraits for ancestral state reconstruction of all nodes in a tree.
+
+This repository provides an example of how to do ancestral state reconstruction using BayesTraits. It uses the dataset and some of the advice on fitting the MCMC model provided [here](https://wiki.duke.edu/display/AnthroTree/3.6+Bayesian+Reconstructions+for+Discrete+Characters+in+BayesTraits). BayesTraits can be used for many different analyses, this tutorial is specifically designed to demonstrate how BayesTraits can be used to reconstruct all the nodes in a phylogenetic tree.

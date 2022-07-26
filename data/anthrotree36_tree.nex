@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN TREES;
+	TRANSLATE
+		1 Macaca_arctoides,
+		2 Macaca_assamensis,
+		3 Macaca_cyclopis,
+		4 Macaca_fascicularis,
+		5 Macaca_fuscata,
+		6 Macaca_maura,
+		7 Macaca_mulatta,
+		8 Macaca_nemestrina,
+		9 Macaca_nigra,
+		10 Macaca_radiata,
+		11 Macaca_silenus,
+		12 Macaca_sinica,
+		13 Macaca_sylvanus,
+		14 Macaca_thibetana,
+		15 Macaca_tonkeana,
+		16 Papio_anubis;
+	TREE consensus_16species = (((((1:4.76513,((3:2.326319,(5:1.599203,7:1.599203):0.727116):1.651628,4:3.977947):0.787182):1.179175,((2:0.957521,14:0.957521):3.208552,(10:2.212826,12:2.212826):1.953247):1.778232):2.021942,((6:4.447656,(9:2.224552,15:2.224552):2.223104):1.933426,(8:4.6753,11:4.6753):1.705782):1.585165):1.049394,13:9.015641):5.245659,16:14.261299);
+END;
+
